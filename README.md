@@ -1,4 +1,4 @@
 - 👋 Hey there, I'm Prahas, graduating from Purdue this December 2023!
 - 🌱 Seeking New Grad Full-Time Software Engineer roles - Spring 2023.
 - 🏥 Developing an AI-powered healthcare app for self-diagnosis.
-- 📫 Contact me: p.prahas@protonmail.com
+- 📫 Contact me: p.prahas@protonmail.com | 🌐 (Website)[https://pprahas.com/] | 💼 (LinkedIn)[https://www.linkedin.com/in/pprahas/]
