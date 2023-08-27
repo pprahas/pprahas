@@ -2,4 +2,4 @@
 - 🌱 Seeking New Grad Full-Time Software Engineer roles - Spring 2023.
 - 🏥 Developing an AI-powered healthcare app for self-diagnosis.
 - 📫 Contact me: p.prahas@protonmail.com | [🌐 Website](https://pprahas.com/){:target="_blank"} | [💼 LinkedIn](https://www.linkedin.com/in/pprahas/)
-- - 📫 Contact me: p.prahas@protonmail.com | 🌐 [Website](https://pprahas.com/){:target="_blank"} | 💼 [LinkedIn](https://www.linkedin.com/in/pprahas/){:target="_blank"}
+- 📫 Contact me: p.prahas@protonmail.com | 🌐 [Website](https://pprahas.com/){:target="_blank"} | 💼 [LinkedIn](https://www.linkedin.com/in/pprahas/){:target="_blank"}
