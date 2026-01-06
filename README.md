@@ -1,3 +1,2 @@
 - 👋 Hi, I'm Prahas! I graduated from Purdue with a degree in Computer Science in December 2023.
-- 🌱 Seeking New Grad Full-Time Software Engineer roles.
 - 📫 Let's Connect: p.prahas@protonmail.com | [🌐 Website](https://pprahas.com/) | [💼 LinkedIn](https://www.linkedin.com/in/pprahas/) 
